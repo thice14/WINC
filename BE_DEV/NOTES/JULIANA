@@ -1,0 +1,18 @@
+
+L1 = [1,2,3,4,5,6,7,8,9,10]
+L2 = [10,9,8,7,6,5,4,3,2,1]
+L3 = []
+
+soma = [x + y for x, y in zip(L1, L2)]
+
+
+for i in range (0,10):
+    L3.append(L1[i]+L2[i])
+print(L3)
+
+
+
+
+print(soma)
+
+

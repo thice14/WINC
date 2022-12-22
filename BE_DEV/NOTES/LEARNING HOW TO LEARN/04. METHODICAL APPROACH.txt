@@ -1,0 +1,144 @@
+METHODICAL APPROACH
+
+Rewatch this class when having a little bit more experience writing code.
+
+1. What is the methodical approach
+2. Deconstructing a coding task
+3. Writing your way out of a problem
+4. Assumptions
+5. Fixing errors and debugging
+
+
+1. What is the methodical approach
+
+Common tasks in a digital craft:
+
+* Breaking a bigger problem down into parts
+* Solving small problems
+* Combining small solutions
+* Dissecting bugs:
+- What is happening exactly?
+- Do I correctly understand this line of code?
+- Excluding possibilities
+
+Randomly trying various things: NEGATIVE
+Methodical approach: POSITIVE
+
+Applying a good methodical approach is something you will get better at by practicing.
+
+2. Deconstructing a Coding Task
+
+Where do you start?
+
+Problem Solving Strategy in Code
+
+Step 1 � Break the Problem Down:
+
+* Do not start thinking in code concepts
+* Break the problem down in steps like you would explain to someone who is not a developer
+* Make sure each step sounds like a command or an order �do X�, calculate �Y�, find �Z�
+* If a step is about a collection of things, split it into:
+- �with every item in the collection�
+- �do X�
+* Is the order of the steps correct? Change it if necessary
+* Strive for 90%, good enough is good enough
+
+Step 2 � Translate Steps to Programming Concepts:
+
+Now turn each step into a programming concept and add the programming concept to your list of steps. So, for each step in your list, ask yourself: How do I do this in code?
+
+If you do not know how to translate a step into code, it can have the following reasons:
+
+* The step is too big -> Break the step into smaller steps
+* You do not know your tools (programming concepts) well enough -> Invest more time in understanding programming concepts
+* You do not know a tool for this -> Ask a more experienced person, explain the human-step you want to take and if they know a programming concept to do this
+
+Step 3 � Combine the Concepts:
+
+Combine your smaller steps into bigger steps and your bigger steps into the whole solution of an exercise or program.
+
+When you have more experience, you will be able to deconstruct bigger and more complex problems.
+
+3. Writing your way out of a problem
+
+Your working memory is relatively small. Writing out things supports your thinking.
+
+* �The problem seems to be with X�
+* �I think Y works like so and so. How do I check this?�
+* �I got error �undefined is not a function. What does this error mean?�
+* �Undefined is not a function. Where/When does this error occur?�
+* �Undefined is not a function. Why do I get this error?�
+* �I think function Z returns a list of 25 items. How can I check this?�
+
+1. I get error X here, so I think that means Y and Z
+2. I checked Y and it has a weird value
+3. Ahh, Y has a weird value because of A
+4. I fixed A, Y has a normal value now
+5. Z also has an expected value, but I still get error X
+6. I now suspect error X is not related to Y and Z
+7. Could it be that error X is because of B?
+
+Rubber Duck Debugging -> When you have a problem, instead of trying to fix the problem or asking somebody else, is: take an object, for example a rubber duck, and try to explain the problem to that object like it is your colleague, mentor, teacher, fellow student, etc. While you are explaining the problem to this imaginary person, you will often find a new way to approach the problem just by yourself.
+
+4. Assumptions
+Big Topic in Digital Crafts!!
+
+�Assumptions are the mother of all fuckups!�
+�When you assume, you make an �ASS� out of �U� and �ME�.�
+
+Assumptions are our thoughts on how something should work or what something is supposed to be. We could not function without them.
+
+When learning you will make (partially) incorrect assumptions. 
+
+Assumptions can be useful even if they are not a 100% accurate.
+
+But your assumptions can be inaccurate in certain ways so that they hinder you.
+
+* Water is wet (is it always the case?)
+* Fire is hot (is it always the case?)
+* Nuclear technology is dangerous (is it always the case?) 
+
+Context is KEY!
+
+How to improve your assumptions? Challenge them!
+
+�If X works like this (assumption), then using X like this should give this result.�
+
+If you are challenging assumptions and learn new things: Update your notes!
+
+
+5. Fixing Errors and Debugging
+
+Again, Big Topic in Digital Crafts!!
+
+Syntax errors: your code will not even run.
+
+Error messages: your code runs but breaks during execution.
+
+Make notes on error messages. Create small runnable lines of code in your notes to fix these errors quickly.
+
+* Documentation
+* Small runnable experiments
+* Update your notes
+
+ Unfortunately, not all bugs generate error messages. So called �logic bugs� simply give an incorrect result.
+
+To find these logical bugs can be considered an art in itself.
+
+Debugging Strategy:
+
+* Discover
+* Locate
+* Analyze
+* Prove
+* Fix
+
+CELEBRATE fixing bugs!
+
+Fixing one bug and getting a fresh new one might feel bad, but it is PROGRESS!
+
+Bugs are part of life for programmers and analysts.
+
+When you have more experience coding, you will be able to understand and fix more complex errors and bugs, and to do so faster.
+ 
+

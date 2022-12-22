@@ -1,0 +1,119 @@
+COMMAND LINE INTERFACE � macOS AND LINUX
+
+macOS vs Linux vs Unix
+
+Linux and Unix are mainly used by digitally technical people.
+
+Unix is oldest, followed by Linux, and then macOS.
+
+Linux evolved from Unix. There are ton of different versions and flavors of both Linux and Unix.
+
+How does macOS relate to Linux and Unix? MacOS is based on a Unix-like program. Therefore CLIs in between macOS, Linux, and Unix show great similarity, about 70-80%.
+
+Which kinds of terminal applications are there?
+
+* Built-in Terminal
+* MacOS: iTerm2
+* Hyper
+
+iTerm2 is very configurable, like adding/editing short cuts, changing visuals, etc. Terminal is not.
+
+Which shells can I use?
+
+* Zsh: built-in and default on macOS
+* Bash: very common, �baseline� shell, former default shell on macOS
+* Fish: user friendly, but a little exotic, which makes it a little harder to find solutions using Google. Likely to get returns on search function with bash or zsh solutions instead of fish.
+* Many more
+
+First steps
+
+* Type a command
+* Press Enter
+* Something happens
+* Results gets printed
+* New command line appears
+
+34 Basic Linux Commands Every User Should Know:
+
+https://www.hostinger.com/tutorials/linux-commands
+
+Where am I? (in Terminal)
+
+Pwd -> print working directory
+
+Shows you in Terminal the directory you are currently working in.
+Clear the screen
+
+Clear -> clears the screen in Terminal and gives you a fresh screen to work in.
+
+Look around here
+
+Ls -> lists the documents in the directory you are currently working in.
+
+Go somewhere else
+
+Cd -> change directory.
+
+�cd directoryname�
+
+Cd .. -> go one directory up
+Cd - -> go back to previous directory, but you cannot go all the way back, you start switching between the last two directories you have been in.
+Cd ~ -> go all the way back to the main/home directory
+
+. = an alias for the current directory
+.. = an alias for the parent directory
+
+Create a directory
+
+Mkdir -> make directory
+
+Remove a directory
+
+Rmdir -> remove directory 
+
+Through this command you can only remove empty directories.
+
+Delete a file
+
+Rm -> remove
+
+Create a new file
+
+Touch -> Create file
+
+�touch filename.extension�
+
+Start VSCode (in the current directory)
+
+Code -> Start VSCode from the directory you are currently at in Terminal.
+
+You can open various VSCode windows. Thereby you can work from a clear directory, avoid noise from other directories.
+
+Finding help on your terminal
+
+* Check the website of the terminal you are using 
+* Use Google
+
+Finding help on your shell
+
+* In most shells there are a lot of commands
+* Use Google and Stack Overflow if you get stuck
+
+Configuring your terminal and shell
+
+You can do things like:
+
+* Change the color scheme of your terminal application
+* Change your prompt
+* Create �aliases� (personalized shortcuts for regularly used commands) 
+
+This is somewhat advanced: use Google to find out more.
+
+
+
+
+ 
+
+
+
+

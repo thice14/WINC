@@ -1,0 +1,98 @@
+DOCUMENTATION AND OTHER SOURCES
+
+What is documentation?
+
+Documentation is basically a bunch of information about a certain subject.
+
+When talking about digital documentation is either documentation on:
+
+* Language (Python, JavaScript, etc.)
+- Official
+- Unofficial
+* Library
+
+Libraries are basically a piece of code that other people have written. They can be small but usually are bit larger. When they are a bit larger, they usually have documentation alongside it. The documentation can be seen as a manual on how to apply the code.
+
+Documentation is usually quite dry, very detailed, often complete. Not very easy to read.
+
+All developers use documentation, all the time. Documentation on the language or libraries they are using.
+
+What are Other Resources?
+
+* Websites
+* Books
+* Videos
+* Other sources of information
+
+Why are documentation and other resources important?
+
+* Complete definitive information
+* Resources that work for you specifically
+* You do not need to remember everything
+* You do not need to have notes for everything
+* You do need to be able to quickly find certain things (again)
+
+Do not recreate or copy-paste documentation in your notes. The documentation will always be there. Instead: in your own notes deep link to the relevant documentation to get all details.
+
+The list of links seen in the video:
+
+JavaScript
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* https://javascript.info/
+* https://learnxinyminutes.com/docs/javascript/
+* https://devdocs.io/javascript/
+
+Python
+
+* https://docs.python.org/3/
+* https://docs.python-guide.org/
+* https://learnxinyminutes.com/docs/python/
+* https://devdocs.io/python~3.9/
+
+JavaScript libraries
+
+* https://reactjs.org/docs/hello-world.html
+* https://devdocs.io/react/
+* https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+
+Python libraries
+
+* https://flask.palletsprojects.com/en/2.0.x/tutorial/layout/
+* https://devdocs.io/flask~2.0/
+* https://docs.python-requests.org/en/latest/user/quickstart/
+
+
+BOOKMARKING
+
+Bookmark your frequently used websites. Organize them through folders. Websites can also be tagged by using in an app (desktop or phone). Do not bookmark everything. Keep it organized and use good titles.
+
+SEARCHING WITHIN WEBSITES
+
+A lot of websites have a search function available. You can also search through a specific website using Google. 
+
+Search function to enter in Search on the Google website is: site:link.url SUBJECT
+Useful for:
+* Documentation websites
+* Stacks Overflow
+* Public forums like Reddit
+
+You can add custom search engines to your browser to access searches faster.
+
+Go to chrome://settings/ -> Select �Search Engines� -> Manage search engines and site search -> Scroll down to Site Search and click Add.
+
+Search engine = The name you want to give to this search engine
+Shortcut = The keyword you enter in the URL bar of your browser to trigger this search engine
+URL with %s in place of query:
+
+- Enter a regular query on a specific site (site:link.url QUERY) in Google Search
+- When the results have loaded, copy the first part of the rendered google URL up until the query. For example: https://www.google.com/search?q=site%3Anl.wikipedia.org+ajax
+- Paste this link in the final box of Edit Search Engine, URL with %s in place of query.
+- Replace the QUERY (in this example �ajax�) with %s
+- Save
+
+
+
+
+
+

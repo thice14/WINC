@@ -1,0 +1,89 @@
+COMMAND LINE INTERFACE � INTRODUCTION
+
+Operating Systems (OS)
+
+* Windows
+* macOS
+* Linux
+* Unix
+* iOS
+* Android
+
+An operating system is basically the base software running on a device.
+
+What is a Command Line Interface (CLI)? And why do computers have one?
+
+Before computers had screens, they printed their output straight on paper.
+
+When screens were introduced to computers, all input still had to be done by typing. A mouse or a trackpad did not exist yet. The screen was simply showing what otherwise would have been printed before.
+
+Revolution followed! The Graphical User Interface (GUI). A GUI is a visual way for the computer to interact with the user. A mouse was introduced then as well. It allowed to work in several windows at the same time without showing all code required to run those windows.
+
+CLIs are older than GUIs. Most operating systems still have CLIs. Exceptions are iOS and Android(?).
+
+CLI Basics
+
+* Type a command
+* Press Enter
+* Stuff happens
+* Get feedback
+* You see a new line where you can type a command
+
+What can you do with a Command Line?
+
+* Lots of things that you can also do with the GUI
+* Manage files
+* Manage your OS
+* Install applications
+* Starting/stopping applications
+* Exception: work with graphical/visual programs. Example: you can NOT enter values in a cell in Excel through a command in a CLI. 
+What do developers do with the Command Line?
+
+* Manage files in projects
+* Start new projects
+* Install software needed for development. Lots of developer software does not have a GUI
+* Automate certain tasks
+
+Non-Operating System Command Line Interfaces
+
+* Console in browser
+* Programming language REPLs 
+
+These are CLIs, but they are not operating system CLIs!
+
+Terminology
+
+Command Line: An umbrella term. Somewhere on a computer (or phone or tablet) where you can type commands.
+
+Terminal (application): The application that allows you type in commands. On a Mac the application is called Terminal. There is another installable application for Mac which is called iTerm. On Windows you can open Windows Terminal (cmd.exe). 
+
+Console: A confusing word since it is usually a physical device. In digital crafts Console also often refers to the CLI of a browser.
+
+Shell: The software running inside of a terminal that allows you to interact with the operating system. You can run different shells on a terminal.
+
+Examples of Shells:
+
+* Powershell
+* Zsh
+* Bash
+* Fish
+
+Prompt: The characters before the cursor on each new command line. The default prompt will be different per shell and can be configured.
+
+REPL
+
+REPL is the Command Line Interface for a programming language.
+
+* Read (R)
+* Evaluate (E)
+* Print (P)
+* Loop (L)
+
+
+
+
+
+
+
+
+

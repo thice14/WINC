@@ -1,0 +1,193 @@
+BRAIN FRIENDLY LEARNING
+
+What works? vs. Why does it work?
+
+Feel free to experiment and investigate in techniques.
+
+1. Two brain modes
+2. Illusion of competence
+3. Memory
+4. Focus
+5. When to stop
+
+
+1. TWO BRAIN MODES
+
+* Focus Mode 
+* Diffuse Mode / Dreamy Mode
+
+Focus Mode 
+
+* Concentration 
+* Thinking hard
+* Breaking down a problem
+* Analytical
+
+Diffuse Mode
+
+* Taking a walk
+* Taking a shower
+* Biking
+* Staring out the window
+* Sleeping / napping
+
+You need both Focus and Diffuse Mode to learn well!
+
+One mode lays the bricks, the other lays on cement. If you don�t switch regularly, you will get a wobbly wall. Either mode can be the bricks or the cement.
+
+Diffuse mode is NOT:
+
+* Social media
+* Videogames
+* Watching TV
+* Sports where you are focusing
+
+An ideal balance is around 80% of the time Focus Mode and 20% of the time Diffuse Mode.
+
+2. ILLUSION OF COMPETENCE
+
+* Seeing somebody solve a problem, write code, or fix a bug
+* Being able to follow along
+
+Assuming you can also DO this just because of the two assumptions above is FALSE -> Illusion of Competence!
+
+To avoid Illusion of Competence you must add the most important step:
+
+* Lots of deliberate practice, increasing difficulty
+
+This will lead to Actual Competence
+
+3. MEMORY
+
+Working Memory vs Long-Term Memory
+
+Working Memory is the site of awareness and of thinking.
+
+Long-Term Memory is factual knowledge and procedural knowledge.
+
+To add something to either your working memory or long-term memory, you need FOCUS.
+
+Your long-term memory is a web of interconnected concepts.
+
+The more a concept is tied to other concepts and repeated and/or practiced, the stronger the web around the concept is.
+
+* Connections to other concepts
+* Use multiple senses (if possible)
+* Practical experience
+* Frequent experience
+* Variation of experience
+
+Think of learning as of riding a bike, cooking, or playing an instrument.
+
+Metaphors
+
+Using metaphors is a very powerful learning tool. A symbol for something else. Metaphors help you understand and remember because you connect a new thing to something you already know. They do not need to fit a 100% to be useful.
+
+Examples:
+
+* Code is like a recipe
+* A function is like a machine
+* A variable is like a bucket that you can put stuff in
+* The mode of a series of numbers is sort of like an average
+
+Forgetting Curve
+
+Image of Herman Ebbinghaus� Forgetting Curve.
+
+https://www.google.com/search?q=forgetting+curve+ebbinghaus&tbm=isch&ved=2ahUKEwir9YX1js75AhXrOLkGHR25DW0Q2-cCegQIABAA&oq=forgetting+curve&gs_lcp=CgNpbWcQARgAMgUIABCABDIECAAQQzIGCAAQHhAHMgYIABAeEAcyBggAEB4QBzIGCAAQHhAHMgYIABAeEAcyBggAEB4QBzIGCAAQHhAHMgYIABAeEAdQAFgAYOwUaABwAHgAgAEziAEzkgEBMZgBAKoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=Tf_8YuuaM-vx5OUPnfK26AY&bih=795&biw=1440
+
+One cure to forgetting is repetition. Applying your knowledge is the best form of repetition.
+
+A good alternative or addition to applying your knowledge, either memory or skills, is called active recall.
+
+Active recall is when you try to answer a question about something without looking at a source of information.
+
+Rote Learning
+
+So called Rote Learning is NOT what we want. Rote learning is when you know a fact, but you do not understand the fact, or you cannot apply it.
+
+Layers of Knowledge
+
+When you learn things that build on each other, you are building layers of knowledge. This is exactly what you are doing when you are learning a digital craft like developing software or doing data analysis.
+
+Think of a pyramid.
+
+Layers sit on top of each other. The lowest layers need to be the strongest. When you want to build another layer on top, it is normal to revisit and strengthen the lower layers first. If you feel you need some more practice with certain topics during revisitation, make sure to strengthen this layer first before you build another layer on top of it.
+
+Speed vs Depth
+
+Learning something deeply is more important than learning something quickly. It is a marathon, not a sprint. Think of the long term!
+
+Explaining Something to Others
+
+A good way to test if you really understand something is to (try to) explain it to others.
+
+So, if somebody asks you a question: try to help them and yourself. If you give an answer that is wrong or does not help them: investigate!
+
+Places to practice with helping people:
+
+* Stack Overflow
+* Reddit
+
+4. FOCUS
+
+When you want to learn something, you need to use your working memory. You are also trying to get the thing you are learning into your long-term memory. For both things you need to be able to FOCUS!
+
+Distractions:
+
+* External
+* Internal
+
+Preventing external distractions:
+
+* Create (a) space
+* Block time
+* Clear area: physical and digital
+* Noise? -> headphones, music
+* Phone away/silenced/off
+* Notifications turned off
+* Communicate (manage expectations)
+
+Preventing internal distractions:
+
+* Write down what you want to focus on
+* Focus on a single thing at a time
+* Thoughts? -> write them down and handle them later
+* Sleep quality
+* Food quality
+
+Pomodoro Technique / Working in Blocks
+
+* 25 min work
+* 5 min break
+
+Lists
+
+- Make and work from lists to help to focus
+- Both paper and digital lists work
+
+* Before you start working add tasks to a list
+* Cross them off when finished (feeling of accomplishment)
+* If you want to dive into something else: add it to the list
+* After a break: look at the list
+* Got distracted: look at the list
+
+5. WHEN TO STOP
+
+Perfectionism does not work. Perfect is the enemy of the good. Especially with technology. 
+
+Ask yourself the question: �What do I want to be able to do with this knowledge?�
+
+If you are unsure, uncertain, in doubt about a certain topic: ASK!
+
+Also: take breaks on time. Sometimes the fastest way to learn something is to take a break.
+
+
+
+
+
+
+
+
+
+

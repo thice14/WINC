@@ -1,0 +1,111 @@
+NOTES
+
+1. Why are notes important?
+
+* Making notes helps with learning: describe things in your owns words, creating your own structure.
+* Broad knowledge + specific knowledge + good notes = Lit!
+
+p.s.: you don�t need to remember everything!
+
+Knowing that something exists that helps you to fix problem X is more important than knowing every solution from the top of your head.
+
+2. Paper
+
+Writing on paper has certain advantages, but it has a lot of limitations as well. Especially with technical subjects!
+
+Option: write (some) notes on paper and then scan them with an �Optical Character Recognition� program so you can search them later.
+
+3. Search
+
+Search is one of the most important things when making notes.
+
+If you make notes in text (.txt) or in Markdown format (https://www.markdownguide.org/), you can easily search through them. Making backups is easy too!
+
+4. Close to Code 
+
+Keep your notes close to your code. 
+
+* A lot of concepts are easier to (re-) understand with runnable code close by.
+* Comments: more specific descriptions per line of code
+
+- Adding code to your notes:
+	# inline
+	# separate folders/files
+
+- Adding notes to your code:
+	# comments 
+	# separate files
+
+5. Adding Visuals
+
+* Brain friendly
+* Works really well for some concepts
+* Works less well for other concepts
+* Use a search engine for other people�s visualisations of concepts
+
+Tools to create visuals:
+	- https://app.diagrams.net/
+	- Paint
+	- Paper + photo
+	- Anything that works
+
+Animations are sometimes even better if you can find them. Don�t make them. To make animations is too time consuming!
+
+To add visualisations to your notes is quite easy in most apps.
+
+Also possible with plain text or Markdown 
+
+Another option is linking to online images, animations, videos, etc.
+
+6. Small Runnable Example/Code
+
+* Small, focused
+* Immediately runnable
+* With notes:
+	- comments
+	- separate file
+
+Public small runnable examples:
+	- https://gridbyexample.com/examples/
+	- https://tobiasahlin.com/blog/common-flexbox-patterns/
+	- https://reactjsexample.com/
+
+If you want to search for (runnable) examples, search for:
+	- �X (language) by example�
+	- �snippets� (of code)
+	- for frontend components: �design systems�
+
+7. Make relations between concepts
+
+Your brain loves connections!
+
+* Visual relationships: mindmaps
+* Link notes to others notes (apps)
+* Add �related� section in your notes
+* Folders in folders in folders 
+
+8. Reviewing Notes
+
+Remember the forgetting curve!
+
+At the start and/or end of your day: look through some old and some new notes. Do some active recall.
+
+9. Apps
+
+* Evernote
+* OneNote
+* Notion.so
+* Bear
+* VSCode: make your own structure
+* .. and way more
+
+Make sure the app has an export function!
+
+10. Backups
+
+* Local backup
+* Dropbox/OneDrive/iCloud
+* Cloud-connected apps
+* GitHub (private repository)
+
+11. Example Note Set-up
